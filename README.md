@@ -1,1 +1,1 @@
-# tt-kaspi
+Вся информация находится в проекте `HttpRequestHandler`
